@@ -11,7 +11,6 @@ async function selectMediaStream() {
     }
   } catch (error) {
     // Catch Error Here
-    console.log('whoops, error here:', error);
   }
 }
 
