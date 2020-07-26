@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(37, 37, 37);
+  background-image: linear-gradient(to right,  #00d2ff, #928DAB);
 }
 
 .button-container {
