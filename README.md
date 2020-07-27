@@ -1,4 +1,5 @@
 # picture-in-picture
+---
 A friend of mine wanted to have a screen that can record another window, that way he is able to react to whatever he is watching within that screen with a friend. So I decided to create an application that does that. This program allows you to open any screen, application, or tab in a movable resizable, window that will stay and follow you on top of anything you do. An example could be where you are watching a tutorial video in the corner of your laptop screen while you are working on something in the background.
 ---
 ## Instructions
@@ -8,4 +9,5 @@ A friend of mine wanted to have a screen that can record another window, that wa
 ---
 ## Information
 for this project I used a web API to make this happen. There are other resources that I used to help create this project that I would like to share.
-> [Mozilla, Using The Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture) > [Css-Tricks: An Introduction to the Picture-In-Picture Web API] (https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
+* [Mozilla, Using The Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture) 
+* [Css-Tricks, An Introduction to the Picture-In Picture-Web API](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
